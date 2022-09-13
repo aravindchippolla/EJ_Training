@@ -1,1 +1,1 @@
-# EJ_Training
+# EJ_Training for DevOps
